@@ -1,10 +1,6 @@
 ### Olá! Meu nome é Rodrigo e sou um estudante de computação 👋
 
 
-**RodrigoLMF/RodrigoLMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente procurando um estágio
 - 🌱 Buscando aprender front-end e back-end
 
