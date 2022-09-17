@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Rodrigo e sou um estudante de computação 👋
 
 
-- 🔭 Atualmente procurando um estágio
-- 🌱 Buscando aprender front-end e back-end
+- 🔭 Estagiário de programação na Sisloc Softwares
+- 🌱 Buscando aprender back-end e front-end
 
 <div align="center">
   <a href="https://github.com/RodrigoLMF">
